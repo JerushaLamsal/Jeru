@@ -7,13 +7,13 @@
     <title>Bubble Cafe</title>
     <style>
         h1{font-size:40pt;
-        color:rgb(83, 232, 182);
-        background-color: bisque;}
+        color:rgb(134, 61, 74);;
+        background-color:rgb(163, 208, 208);}
         h2{font-size:20pt;
         color:red;}
         span{color:blueviolet;}
         body{color:brown;
-        background-color:azure;}
+        background-color:lightpink;}
          </style>
         
            </head>
